@@ -1,7 +1,8 @@
-# GitHub repositories explorer
+# GitHub Repositories Explorer
 
-This project allows user to search for up to 5 users with a username similar to the value entered in text input and then on click, display repositories (no limit on displayed repositories amount) for selected GitHub user.  Github REST api is integrated.
-Demo: 
+This project allows user to search for up to 5 users with a username similar to the value entered in text input and then on click, display repositories (no limit on displayed repositories amount) for selected GitHub user. Github REST api is integrated.
+
+Demo: https://github-explore-test.vercel.app/
 
 ## How To Run
 
