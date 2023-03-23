@@ -7,7 +7,7 @@ export class ApiClient {
 
   constructor() {
     this.octokitClient = new Octokit({
-      auth: process.env.REACT_APP_NOT_GITHUB_TOKEN,
+      auth: process.env.REACT_APP_GITHUB_TOKEN,
     });
   }
 
